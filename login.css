@@ -1,0 +1,13 @@
+body{
+	background:#ebfafa
+}
+section{
+	border-radius: 20px;
+	background: #adebeb;
+	width: 30%;
+	margin-left: 30%;
+	margin-top:60px;
+}
+#div{
+	text-align: center;
+}

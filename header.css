@@ -1,0 +1,124 @@
+main{
+	height: 80%;
+	border: 1px double;
+	margin: auto;
+	width: 70%;
+	margin-top:1%;
+	border:none;
+
+}
+#recherche{
+height:100%;
+background: black;
+background:#b3d9ff;
+ border-radius: 20px;
+ background: #8f8f8b;
+}
+/*#domain{
+	width:35%;
+	height:10%;
+	margin-left: 5%;
+	margin-top:0.8%;
+}
+#ville{
+	width:35%;
+	height:10%;
+}
+#rech{
+	width:20%;
+	height:10%;
+	color: white;
+	background:#003366;
+	border:none;
+	border-radius:25px;
+}
+*/
+#rech:hover{
+	cursor:pointer;
+}
+#form1{
+	margin:auto;
+	width:70%;
+	height:90%;
+	/*border: 1px double;*/
+	background: red;
+	margin-top:3%;
+	background: #4da6ff;
+	border-radius:25px;
+}
+aside{
+	float: left;
+	height:95%;
+	border: 1px double;
+	margin: auto;
+	width:26.5%;
+	margin-top:0.01%;
+	background: white;
+	background: #f9f9f9;
+	border-color:#e6eeff;
+	border-style:groove;
+	background: #8f8f8b;
+
+	
+}
+#corp{
+	float:right;
+	height:95%;
+	/*border: 1px double;*/
+	margin: auto;
+	width:71%;
+	margin-top:0.01%;
+	margin-right:0.1%;
+	background:#6d706c;
+	
+}
+#recherche{
+	/*border: 1px double;*/
+
+}
+#resultat{
+	border:1px double;
+	height:90%;
+	margin: auto;
+	width:90%;
+	margin-top:3%;
+	background: #f9f9f9;
+	overflow: scroll;
+	background:#c3c3c3;
+
+}
+#d1{
+height: 2%;
+}
+aside input{
+	display: block;
+}
+aside input{
+	width:80%;
+	height:7%;
+	margin:auto;
+	margin-top:2%;
+	background:#dee4a9;
+}
+aside label{
+	display: block;
+}
+aside label{
+	width:80%;
+	height:6%;
+	margin:auto;
+	margin-top:3%;
+	background: red;
+	background-color:#27424c;
+	color:white;
+}
+#photo5{
+	margin: auto;
+	margin-top:10%;
+	width:95%;
+	height:50%;
+	background: url('etudiant.png');
+	background-size:100% 100%;
+
+
+}
